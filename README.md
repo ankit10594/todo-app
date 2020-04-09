@@ -1,5 +1,5 @@
-# mGalla
-mGalla mobile application development
+# ToDo App
+A test app for Suma Soft
 
 ## Technical Overview
 ### Libraries and Frameworks
