@@ -5,7 +5,7 @@ A test app for Suma Soft
 ### Libraries and Frameworks
 - React Native 0.62.2
 - React 16.11.0
-- React Navigation 5.1.5
+- React Navigation 4
 
 ### Code Formatting
   - React coding standards
